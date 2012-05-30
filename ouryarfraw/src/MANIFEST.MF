@@ -1,0 +1,20 @@
+Manifest-Version: 1.0                                                  
+Main-Class: com.cotrino.feed2ereader.Feed2ereader
+Class-Path: ./lib/yarfraw-0.92-bin-all/
+  ./lib/yarfraw-0.92-bin-all/activation-1.1.jar
+  ./lib/yarfraw-0.92-bin-all/avalon-framework-4.1.3.jar
+  ./lib/yarfraw-0.92-bin-all/commons-codec-1.2.jar
+  ./lib/yarfraw-0.92-bin-all/commons-collections-3.2.jar
+  ./lib/yarfraw-0.92-bin-all/commons-httpclient-3.1-beta1.jar
+  ./lib/yarfraw-0.92-bin-all/commons-io-1.3.1.jar
+  ./lib/yarfraw-0.92-bin-all/commons-lang-2.3.jar
+  ./lib/yarfraw-0.92-bin-all/commons-logging-1.1.jar
+  ./lib/yarfraw-0.92-bin-all/jaxb-api-2.1.jar
+  ./lib/yarfraw-0.92-bin-all/jaxb-impl-2.0.3.jar
+  ./lib/yarfraw-0.92-bin-all/jsr173_api-1.0.jar
+  ./lib/yarfraw-0.92-bin-all/log4j-1.2.12.jar
+  ./lib/yarfraw-0.92-bin-all/logkit-1.0.1.jar
+  ./lib/yarfraw-0.92-bin-all/servlet-api-2.3.jar
+  ./lib/yarfraw-0.92-bin-all/stax-api-1.0-2.jar
+  ./lib/yarfraw-0.92-bin-all/yarfraw-0.92.jar
+
